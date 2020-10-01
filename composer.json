@@ -1,5 +1,23 @@
 {
+    "name": "hasokeyk/array-2-html-form",
+    "type": "library",
+    "description": "Easy Web API Create",
+    "keywords": ["html","php","php array","html form"],
+    "homepage": "https://hayatikodla.net",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Hasan Yüksektepe",
+            "email": "hasanhasokeyk@hotmail.com",
+            "homepage": "https://hayatikodla.net",
+            "role": "Developer"
+        }
+    ],
     "require": {
-        "adhocore/jwt": "^1.0"
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "files": ["keybAPI.php"]
     }
 }
