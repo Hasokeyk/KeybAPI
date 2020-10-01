@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e6f961be-779c-4586-87d3-9f9cddff2bcd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +47,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node_modules/npm" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -67,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585926242299</updated>
       <workItem from="1585926244614" duration="688000" />
-      <workItem from="1601552772427" duration="101000" />
+      <workItem from="1601552772427" duration="144000" />
     </task>
     <servers />
   </component>
